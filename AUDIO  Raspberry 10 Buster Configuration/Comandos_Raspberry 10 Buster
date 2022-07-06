@@ -1,0 +1,68 @@
+    1  sudo apt-get update && sudo apt-get upgrade
+    2  sudo apt-get update
+    3  sudo apt-get upgrade
+    4  sudo raspi-config
+    5  python --version
+    6  python3 --version
+    7  sudo apt-get install portaudio19-dev python3-pyaudio
+    8  pip3 install pyaudio
+    9  pip3 install pipwin
+   10  pip3 install speechrecognition 
+   11  pip3 install --upgrade speechrecognition
+   12  cd Desktop/
+   13  ls
+   14  python3 comandos_voz.py 
+   15  cd
+   16  KeyboardInterrupt
+   17  pi@raspberrypi:~/Desktop $ 
+   18  pi@raspberrypi:~/Desktop $ cd
+   19  pi@raspberrypi:~ $ 
+   20  pip3 install playsound
+   21  pip3 install pydub
+   22  pip3 install playsound
+   23  cd Desktop/
+   24  python3 playsound.py
+   25  cd
+   26  python3
+   27  pip install playsound==1.2.2
+   28  cd Desktop/
+   29  python playsound.py
+   30  pip install pygobject
+   31  sudo raspi-config
+   32  exit
+   33  history 
+   34  sudo raspi-config
+   35  pip install pydub
+   36  sudo apt-get install portaudio19-dev python-pyaudio
+   37  pip install pyaudio
+   38  pip install pipwin
+   39  pip install speechrecognition
+   40  pip install --upgrade speechrecognition
+   41  sudo raspi-config
+   42  sudo reboot now
+   43  history 
+   44  pip install pydub
+   45  pip install playsound
+   46  sudo apt-get install portaudio19-dev python-pyaudio
+   47  pip install pyaudio
+   48  pip install pipwin
+   49  pip install speechrecognition
+   50  pip install --upgrade speechrecognition
+   51  uname -a
+   52  python --version
+   53  python3 --version
+   54  sudo apt install libaec0 libaom0 libatk-bridge2.0-0 libatk1.0-0 libatlas3-base libatspi2.0-0 libavcodec58 libavformat58 libavutil56 libbluray2 libcairo-gobject2 libcairo2 libchromaprint1 libcodec2-0.8.1 libcroco3 libdatrie1 libdrm2 libepoxy0 libfontconfig1 libgdk-pixbuf2.0-0 libgfortran5 libgme0 libgraphite2-3 libgsm1 libgtk-3-0 libharfbuzz0b libhdf5-103 libilmbase23 libjbig0 libmp3lame0 libmpg123-0 libogg0 libopenexr23 libopenjp2-7 libopenmpt0 libopus0 libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpixman-1-0 librsvg2-2 libshine3 libsnappy1v5 libsoxr0 libspeex1 libssh-gcrypt-4 libswresample3 libswscale5 libsz2 libthai0 libtheora0 libtiff5 libtwolame0 libva-drm2 libva-x11-2 libva2 libvdpau1 libvorbis0a libvorbisenc2 libvorbisfile3 libvpx5 libwavpack1 libwayland-client0 libwayland-cursor0 libwayland-egl1 libwebp6 libwebpmux3 libx264-155 libx265-165 libxcb-render0 libxcb-shm0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxi6 libxinerama1 libxkbcommon0 libxrandr2 libxrender1 libxvidcore4 libzvbi0
+   55  sudo pip3 install opencv-contrib-python==4.5.3.56
+   56  pip3 install numpy --upgrade --ignore-installed
+   57  python3
+   58  cd Desktop/
+   59  python3 video_stream.py 
+   60  python video_stream.py 
+   61  python3 audio.py 
+   62  python3 audio.py
+   63  python audio.py
+   64  python3 audio2.py
+   65  cd
+   66  sudo apt install audacity
+   67  history 
+
